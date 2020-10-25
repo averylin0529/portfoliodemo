@@ -206,7 +206,7 @@ Header
 Hero section  
 *******/
 #hero{
-    background-image: url(./img/bg2.jpg);
+    background-image: url(./image/bg2.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
